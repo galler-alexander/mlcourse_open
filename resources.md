@@ -2,6 +2,8 @@
 
 [Материалы открытого курса OpenDataScience и Mail.Ru Group по машинному обучению и новый запуск](https://habrahabr.ru/company/ods/blog/344044/)
 
+[Канал на YouTube](https://goo.gl/EfDAGy)
+
 [Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas](https://habrahabr.ru/company/ods/blog/322626/)
 
 #Математика
@@ -27,3 +29,8 @@
 - "Deep Learning" (Goodfellow, Bengio, Courville)
 - "Глубокое обучение: погружение в мир нейронных сетей" (Николенко С. И., Кадурин А. А., Архангельская Е. О.)
 - [Лекции ШАД по машинному обучению](https://yandexdataschool.ru/edu-process/courses/machine-learning)
+
+#other
+##git
+[trygit](https://try.github.io/levels/1/challenges/1)
+[gitreal](http://gitreal.codeschool.com)
