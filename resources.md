@@ -20,6 +20,9 @@
 - [CodeAcademy Learn Python](https://www.codecademy.com/learn/learn-python) 199$
 - [курс питерского Computer Science Center](https://compscicenter.ru/courses/python/2015-autumn/)
 
+##pandas
+[10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+
 #Machine Learning
 - классический (но слегка устаревший) курс Andrew Ng "Machine Learning"(Stanford, Coursera)
 - отличная специализация МФТИ и Яндекса «Машинное обучение и анализ данных»
